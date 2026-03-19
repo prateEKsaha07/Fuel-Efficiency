@@ -1,5 +1,6 @@
 ## what i did?
-In this project, we cleaned and preprocessed an automobile dataset by handling missing values, encoding categorical features, and scaling numerical data. We then built a regression model using a TensorFlow Sequential neural network to predict MPG and evaluated its performance using MAE, achieving strong results (~1.62). Additionally, we explored traditional models like XGBoost for comparison. In the future, this project can be extended by using larger datasets, applying hyperparameter tuning, experimenting with advanced architectures, and deploying the model as a web application for real-time predictions.
+In this project, i cleaned and preprocessed an automobile dataset by handling missing values, encoding categorical features, and scaling numerical data. then i built a regression model using a TensorFlow Sequential neural network to predict MPG and evaluated its performance using MAE, achieving strong results (~1.62). Additionally, explored traditional models like XGBoost for comparison.
+In the future, this project can be extended by using larger datasets, applying hyperparameter tuning, experimenting with advanced architectures, and deploying the model as a web application for real-time predictions.
 
 ## Dataset overview
 * Total records: 398
